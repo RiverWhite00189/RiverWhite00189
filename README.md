@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiverWhite00189
 - 👀 I’m interested in ... Computer Science
 - 🌱 I’m currently learning ... Java for AP CSA
-- 💞️ I’m looking to collaborate on ... game development
+- 💞️ I’m looking to collaborate on ... small personal projects
 - 📫 How to reach me ... email is best
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... my favorite animals are penguins
