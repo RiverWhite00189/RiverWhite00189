@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Computer Science
 - 🌱 I’m currently learning ... Python for ENGR 102 at TAMU!
 - 💞️ I’m looking to collaborate on ... small personal projects
-- 📫 How to reach me ... email is best
+- 📫 How to reach me ... email!
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... my favorite animals are penguins
 
