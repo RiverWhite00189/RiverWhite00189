@@ -1,5 +1,5 @@
-Hello! I'm Aishwarya!
-I'm a general engineering freshman at Texas A&M!
+Hello! I'm Aishwarya!\n
+I'm a general engineering freshman at Texas A&M!\n
 Feel free to reach out at aishwarya@tamu.edu or @aishwarya_pa.ni
 
 <!---
